@@ -21,6 +21,7 @@ namespace ArrayPrinter
                 }
             }
             Console.WriteLine(arrayBegin+arrayString+arrayEnd);
+            Console.ReadKey();
         }
     }
 }
